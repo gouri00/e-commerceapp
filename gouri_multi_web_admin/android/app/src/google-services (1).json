@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899898765475",
+    "project_id": "myhub-cf229",
+    "storage_bucket": "myhub-cf229.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899898765475:android:7b493d837d13fc13a48f16",
+        "android_client_info": {
+          "package_name": "com.gouri.uber_shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-vtSQoZmQIKhzU5_vHwO2cPOfZzUnLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899898765475:android:14e4248288105ac4a48f16",
+        "android_client_info": {
+          "package_name": "com.gouri.vendor_app_only"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-vtSQoZmQIKhzU5_vHwO2cPOfZzUnLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
