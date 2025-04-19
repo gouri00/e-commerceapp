@@ -60,8 +60,3 @@ Follows the **Model-View-Controller (MVC)** pattern for clean separation of logi
 - Firebase Project setup
 - Google Maps API Key
 
-### Setup Instructions
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/flutter-ecommerce-app.git
